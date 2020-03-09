@@ -2,11 +2,16 @@
 
 ### Day 1: Mar 9, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Suggested starting with JS Clock:
+
+Pick a language (prefer JS)
+Learn 2 concepts each day & implement them in JS
+pick any small project form github or any where just spend hours on understanding the code, the flow, code structure.
+Clone the project, play with code
+Once you are comfortable, try to add a new functionality
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
