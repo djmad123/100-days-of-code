@@ -2,13 +2,16 @@
 
 ### Day 1: Mar 9, 2020
 
-**Today's Progress**: Suggested starting with JS Clock:
+**Today's Progress**: Suggested starting with JS Clock.
 
 Pick a language (prefer JS)
-Learn 2 concepts each day & implement them in JS
-pick any small project form github or any where just spend hours on understanding the code, the flow, code structure.
-Clone the project, play with code
-Once you are comfortable, try to add a new functionality
+1) Learn 2 concepts each day & implement them in JS
+
+2) pick any small project form github or any where just spend hours on understanding the code, the flow, code structure.
+
+3) Clone the project, play with code
+
+4) Once you are comfortable, try to add a new functionality
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
