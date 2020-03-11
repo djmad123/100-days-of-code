@@ -17,11 +17,14 @@ Pick a language (prefer JS)
 
 
 ### Day 2: Mar 10, 2019 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Started on JSClock from Javascript30. Created JSClock.
 
 **Thoughts**: Struggled with git a little bit, but starting to get the hang of it.
+
+### Day 3: Mar 11, 2019
+**Today's Progress**
 
 
 
