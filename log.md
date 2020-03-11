@@ -25,10 +25,12 @@ Pick a language (prefer JS)
 
 ### Day 3: Mar 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Figured out secure CDN for JQuery over https. The trick is to use a CDN for jQuery that supports https.
+Using MyTest to change some canvas. Going through Javascript30
 
 
 
+Sample:
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
