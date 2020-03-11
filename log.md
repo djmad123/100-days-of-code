@@ -24,7 +24,8 @@ Pick a language (prefer JS)
 **Thoughts**: Struggled with git a little bit, but starting to get the hang of it.
 
 ### Day 3: Mar 11, 2019
-**Today's Progress**
+
+**Today's Progress**: 
 
 
 
