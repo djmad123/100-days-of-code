@@ -28,6 +28,11 @@ Pick a language (prefer JS)
 **Today's Progress**: Figured out secure CDN for JQuery over https. The trick is to use a CDN for jQuery that supports https.
 Using MyTest to change some canvas. Going through Javascript30
 
+## Day 4: Mar 18, 2019
+**Today's Progress**: Figured out secure CDN for JQuery over https. The trick is to use a CDN for jQuery that supports https.
+Using MyTest to change some canvas. Going through Javascript30
+
+**Thoughts**: Go to track w/ sinusitus. But back on track today.
 
 
 Sample:
