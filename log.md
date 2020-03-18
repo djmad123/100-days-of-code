@@ -29,7 +29,7 @@ Pick a language (prefer JS)
 Using MyTest to change some canvas. Going through Javascript30
 
 ### Day 4: Mar 18, 2019
-**Today's Progress**:  Going through Javascript30
+**Today's Progress**:  Going through Javascript30. Finished Drumkit.
 
 **Thoughts**: Go to track w/ sinusitus. But back on track today.
 
