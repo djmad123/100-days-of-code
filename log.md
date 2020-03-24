@@ -33,6 +33,14 @@ Using MyTest to change some canvas. Going through Javascript30
 
 **Thoughts**: Go to track w/ sinusitus. But back on track today.
 
+### Day 5: Mar 21, 2019
+**Today's Progress: Working on JSClock. New GitHub repo.
+
+### Day 6: Mar 22, 2019
+**Today's Progress: Working on index of JSClock
+
+### Day 7: Mar 23, 2019.
+**Today's Progress:
 
 Sample:
 ### Day 1: June 27, Monday
