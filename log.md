@@ -39,9 +39,9 @@ Using MyTest to change some canvas. Going through Javascript30
 ### Day 6: Mar 22, 2019
 **Today's Progress: Working on index of JSClock
 
-### Day 7: Apr 13, 2019. Got way off track with CO-VID. Restarting 100 days
-**Today's Progress:
-**Thoughts**
+### Day 1: Apr 13, 2019. Got way off track with CO-VID. Restarting 100 days
+**Today's Progress: Finished JSClock. Modified. Changed.
+
 
 
 **Link(s) to work**
