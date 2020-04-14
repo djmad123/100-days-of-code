@@ -39,15 +39,10 @@ Using MyTest to change some canvas. Going through Javascript30
 ### Day 6: Mar 22, 2019
 **Today's Progress: Working on index of JSClock
 
-### Day 7: Mar 23, 2019.
+### Day 7: Apr 13, 2019. Got way off track with CO-VID. Restarting 100 days
 **Today's Progress:
+**Thoughts**
 
-Sample:
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
