@@ -16,31 +16,35 @@ Pick a language (prefer JS)
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 
-### Day 2: Mar 10, 2019 
+### Day 2: Mar 10, 2020 
 
 
 **Today's Progress**: Started on JSClock from Javascript30. Created JSClock.
 
 **Thoughts**: Struggled with git a little bit, but starting to get the hang of it.
 
-### Day 3: Mar 11, 2019
+### Day 3: Mar 11, 2020
 
 **Today's Progress**: Figured out secure CDN for JQuery over https. The trick is to use a CDN for jQuery that supports https.
 Using MyTest to change some canvas. Going through Javascript30
 
-### Day 4: Mar 18, 2019
+### Day 4: Mar 18, 2020
 **Today's Progress**:  Going through Javascript30. Finished Drumkit.
 
 **Thoughts**: Go to track w/ sinusitus. But back on track today.
 
-### Day 5: Mar 21, 2019
+### Day 5: Mar 21, 2020
 **Today's Progress: Working on JSClock. New GitHub repo.
 
-### Day 6: Mar 22, 2019
+### Day 6: Mar 22, 2020
 **Today's Progress: Working on index of JSClock
 
 ### Day 1: Apr 13, 2019. Got way off track with CO-VID. Restarting 100 days
 **Today's Progress: Finished JSClock. Modified. Changed.
+
+### Day 2: Apr 16, 2020
+**Today's Progress:
+Playing with CSS Variables and JS
 
 
 
