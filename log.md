@@ -44,7 +44,8 @@ Using MyTest to change some canvas. Going through Javascript30
 
 ### Day 2: Apr 16, 2020
 **Today's Progress:
-Playing with CSS Variables and JS
+Commit git changes. Had to review.
+Started on - Playing with CSS Variables and JS
 
 
 
