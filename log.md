@@ -49,7 +49,10 @@ Started on - Playing with CSS Variables and JS
 
 ### Day 3: Apr 19, 2020
 **Today's progress:
-Using JS a Smarter Way. Create new repo
+Using JS a Smarter Way. Create new repo.
+
+### Day 4: Apr 20, 2020
+Using JS a Smarter Way
 
 
 
