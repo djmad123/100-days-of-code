@@ -54,6 +54,9 @@ Using JS a Smarter Way. Create new repo.
 ### Day 4: Apr 20, 2020
 Using JS a Smarter Way
 
+### Day 5: Apr 21 2020
+**Today's Progress:
+Finished with CSS Variables and JS
 
 
 **Link(s) to work**
