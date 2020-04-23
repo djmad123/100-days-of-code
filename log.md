@@ -58,6 +58,9 @@ Using JS a Smarter Way
 **Today's Progress:
 Finished with CSS Variables and JS
 
+### Day 6: Apr 22 2020
+**Today's Progress:
+Doing free FrontEnd Masters bootcamp
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
