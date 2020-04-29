@@ -66,8 +66,11 @@ Doing free FrontEnd Masters bootcamp
 **Today's Progress:
 Doing free FrontEnd Masters bootcamp, HTML
 
-Day 8 : Apr 27, 2020
+### Day 8 : Apr 27, 2020
 **Today's Progress: Doing free FrontEnd Masters, started CSS
+
+### Day 9 : Apr 28, 2020
+**Today's Progress: FEM, some CSS
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
