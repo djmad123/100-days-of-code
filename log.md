@@ -81,6 +81,9 @@ Doing free FrontEnd Masters bootcamp, HTML
 ### Day 12 : May 12, 2020
 **Today's Progress: Study FEMasters, CSS
 
+Day 12 : May 16, 2020
+**Today's Progress: 70840 study
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
